@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://test-tawny-kappa-12.vercel.app/sitemap.xml
