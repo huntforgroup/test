@@ -2,13 +2,13 @@
 <!-- Save this as sitemap.xml -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>https://yourwebsite.com/</loc>
+        <loc>https://tcgspy.com/</loc>
         <lastmod>2025-01-10</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>https://yourwebsite.com/backlink_to_tcgspy.html</loc>
+        <loc>https://tcgspy.com/index.html</loc>
         <lastmod>2025-01-10</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
